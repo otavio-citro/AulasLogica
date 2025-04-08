@@ -7,3 +7,6 @@ console.log(`o campeao é ${times[0]}`);
 console.log(times.slice(5,9));
 
 console.log(times.slice(-4));
+
+
+
